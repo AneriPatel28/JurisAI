@@ -1,0 +1,30 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: User Guide
+    chapters:
+      - file: docs/installation.md
+      - file: docs/API_CREDENTIALS_GUIDE.md
+      - file: docs/usage.md
+      
+  - caption: API Documentation
+    chapters:
+      - file: notebooks/api-examples.ipynb
+      
+  - caption: Development
+    chapters:
+      - file: docs/CONTRIBUTING.md
+      - file: docs/CODE_OF_CONDUCT.md
+      - file: docs/citation.md
+      - file: docs/git-workflows.md
+      - file: docs/folders-and-naming.md
+      - file: docs/notebooks-workflows.md
+
+  - caption: Deployment
+    chapters:
+      - file: docs/DEPLOYMENT_GUIDE.md
+      
+  - caption: References
+    chapters:
+      - file: docs/bibliography.bib

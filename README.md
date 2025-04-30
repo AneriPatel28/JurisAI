@@ -240,8 +240,8 @@ This project is a collaborative effort led by the World Bank and George Washingt
 - **Tatsuya Iwasaki**
 
 **Team Members – GWU**  
-- **Saikrishna Paila**  
 - **Aneri Patel**  
+- **Saikrishna Paila**  
 - **Phani Vishnu Addepalli**  
 - **Pranideep Meka**
 

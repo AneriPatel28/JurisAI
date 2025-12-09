@@ -29,7 +29,6 @@
 JurisAI is an intelligent legal assistant that provides accessible legal guidance for Ghana and Sierra Leone. Built with Streamlit and powered by advanced language models, it offers legal information in multiple languages to bridge the accessibility gap in legal services.
 
 ### Quick Links
-- 🌐 [Live Demo](https://jurisai-1358123759.us-central1.run.app)
 - 📚 [Documentation](docs/)
 - 🤝 [Contributing Guidelines](CONTRIBUTING.md)
 - 📜 [Code of Conduct](CODE_OF_CONDUCT.md)
